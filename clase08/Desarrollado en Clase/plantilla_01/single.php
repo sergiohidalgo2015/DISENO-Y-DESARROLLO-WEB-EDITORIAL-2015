@@ -5,7 +5,30 @@
 </head>
 <body>
 
-	<h1>Aqui voy a mostrar el contenido de cualquier entrada</h1>
+<!-- Inicio del contenido -->
+
+	<?php
+		if ( have_posts() ) : 
+			while ( have_posts() ) : the_post();
+	?>
+
+
+
+	<?php 
+		the_content();
+	?>
+
+
+
+<!-- Fin del contenido -->
+
+    <?php 
+
+			endwhile;
+		endif;
+	?>
+
+
 
 </body>
 </html>
