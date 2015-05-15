@@ -1,9 +1,7 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title></title>
-</head>
-<body>
+<?php
+	get_header();
+?>
+
 
 <!-- Inicio del contenido -->
 
@@ -42,5 +40,6 @@
 
 
 
-</body>
-</html>
+<?php
+	get_footer();
+?>

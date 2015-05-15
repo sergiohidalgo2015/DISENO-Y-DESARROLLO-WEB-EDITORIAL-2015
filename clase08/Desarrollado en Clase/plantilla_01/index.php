@@ -1,14 +1,10 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title><?php bloginfo("name"); ?></title>
-
-
-</head>
-<body>
+<?php
+	get_header();
+?>
 
 	<h1><?php bloginfo("name"); ?></h1>
 
 
-</body>
-</html>
+<?php
+	get_footer();
+?>

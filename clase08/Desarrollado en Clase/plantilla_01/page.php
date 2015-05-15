@@ -1,9 +1,10 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title></title>
-</head>
-<body>
+<?php
+	get_header();
+?>
+
+
+<h2>Estoy usando la plantilla page.php</h2>
+
 
 <!-- Inicio del contenido -->
 
@@ -42,5 +43,6 @@
 
 
 
-</body>
-</html>
+<?php
+	get_footer();
+?>
