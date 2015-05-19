@@ -1,0 +1,8 @@
+/*#contenedor #contenedorSecciones #contenidoPrincipal #fotoTrujillo {widht:671px;height:221px;margin:28px 0 20px 20px;}*/
+#contenedor #contenedorSecciones #contenidoPrincipal .mensaje {widht:671px;overflow:hidden;color:#595959;font-size:14px;margin:28px 0 40px 20px;text-align:justify;}
+#contenedor #contenedorSecciones #contenidoPrincipal #fotosTrujillo {widht:671px;overflow:hidden;margin:28px 0 10px 20px;text-align:justify;}
+#contenedor #contenedorSecciones #contenidoPrincipal #fotosTrujillo .fotoTrujillo {float:left;}
+
+#contenedor #contenedorSecciones #contenidoPrincipal #leyendaFotos {width:320px;overflow:hidden;margin:10px auto;}
+#contenedor #contenedorSecciones #contenidoPrincipal #leyendaFotos #imagen {float:left;}
+#contenedor #contenedorSecciones #contenidoPrincipal #leyendaFotos #descripcion {float:left;font-size:14px;font-weight:700;margin-left:5px;color:#333333;}

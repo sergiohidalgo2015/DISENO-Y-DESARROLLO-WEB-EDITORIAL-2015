@@ -1,0 +1,20 @@
+#contenedor #contenedorSecciones {width:943px;overflow:hidden;}
+
+#contenedor #contenedorSecciones #noticias {width:619px;overflow:hidden;float:left;}
+#contenedor #contenedorSecciones #noticias #cabecera {width:604px;height:30px;font-family:"MyriadWebProBold";font-size:20px;color:#ffffff;padding:10px 0 0 15px;background-image:url(../imagenes/fondoTituloNoticias.jpg);background-repeat:no-repeat;}
+#contenedor #contenedorSecciones #noticias #contenidos {width:617px;height:148px;border-width:0 1px 1px 1px;border-style:solid;border-color:#aeaeae;}
+#contenedor #contenedorSecciones #noticias #contenidos .contenidoNoticia {width:281px;height:120px;margin:13px 13px 0 13px;float:left;position:relative;}
+#contenedor #contenedorSecciones #noticias #contenidos .contenidoNoticia #imagenNoticia1 {width:99px;height:111px;background-image:url(../imagenes/noticias/noticia1.jpg);float:right;}
+#contenedor #contenedorSecciones #noticias #contenidos .contenidoNoticia #imagenNoticia2 {width:99px;height:111px;background-image:url(../imagenes/noticias/noticia2.jpg);float:right;}
+#contenedor #contenedorSecciones #noticias #contenidos .contenidoNoticia #fecha {font-family:Arial;font-size:14px;font-weight:bold;color:#b21b12;}
+#contenedor #contenedorSecciones #noticias #contenidos .contenidoNoticia #titulo {font-family:Arial;font-size:14px;font-weight:bold;color:4f4f4f;}
+#contenedor #contenedorSecciones #noticias #contenidos .contenidoNoticia #texto {font-family:Arial;font-size:13px;font-weight:normal;color:808080;}
+#contenedor #contenedorSecciones #noticias #contenidos .contenidoNoticia #leerMas {width:80px;height:25px;background-image:url(../imagenes/btnLeerMas.jpg);margin-top:14px;cursor:pointer;}
+
+#contenedor #contenedorSecciones #chat {width:310px;overflow:hidden;float:right;}
+#contenedor #contenedorSecciones #chat #cabecera {width:295px;height:30px;font-family:"MyriadWebProBold";font-size:20px;color:#ffffff;padding:10px 0 0 15px;background-image:url(../imagenes/fondoTituloChat.jpg);}
+#contenedor #contenedorSecciones #chat #contenidos {width:295px;height:148px;padding-left:13px;border-width:0 1px 1px 1px;border-style:solid;border-color:#aeaeae;}
+#contenedor #contenedorSecciones #chat #contenidos #imagenChat {width:138px;height:148px;float:right;background-image:url(../imagenes/fotoOperadora.jpg);}
+#contenedor #contenedorSecciones #chat #contenidos #titulo {font-family:Arial;font-size:14px;font-weight:bold;color:4f4f4f;padding-top:22px;}
+#contenedor #contenedorSecciones #chat #contenidos #texto {font-family:Arial;font-size:13px;font-weight:normal;color:808080;}
+#contenedor #contenedorSecciones #chat #contenidos #ingresar {width:80px;height:25px;background-image:url(../imagenes/btnIngresar.jpg);cursor:pointer;margin-top:20px;}

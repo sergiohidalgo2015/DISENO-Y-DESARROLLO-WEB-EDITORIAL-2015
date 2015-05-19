@@ -1,0 +1,4 @@
+#contenedor #contenedorSecciones #contenidoPrincipal .zonaServicios {widht:669px;border:1px solid #aeaeae;overflow:hidden;background-color:#e6ecf4;margin:28px 0 40px 20px;padding-right:30px;}
+#contenedor #contenedorSecciones #contenidoPrincipal .zonaServicios .zonaImagenServicio {float:left;width:384px;height:199px;margin:0;padding:0;}
+#contenedor #contenedorSecciones #contenidoPrincipal .zonaServicios .zonaDescripcionServicio {float:left;width:255px;height:199px;*height:184px;*padding:15px 0 0 0;}
+#contenedor #contenedorSecciones #contenidoPrincipal .zonaServicios .zonaDescripcionServicio ul li {font-size:14px;color:#595959;font-weight:normal;margin-bottom:15px;list-style-type: none;list-style-image: url(../imagenes/internas/vineta.png);}

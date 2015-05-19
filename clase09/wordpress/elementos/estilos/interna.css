@@ -1,0 +1,21 @@
+span.negrita {font-weight:700;}
+span.subrayado {text-decoration: underline;}
+
+#contenedor #contenedorSecciones {width:943px;overflow:hidden;margin-top:13px;}
+
+#contenedor #contenedorSecciones #contenidoPrincipal {width:691px;overflow: hidden;float:left;}
+#contenedor #contenedorSecciones #contenidoPrincipal #zonaTitulo {width:671px;margin:13px 0 0 20px;overflow:hidden;}
+#contenedor #contenedorSecciones #contenidoPrincipal #fotoTrujillo {widht:671px;height:221px;margin:28px 0 40px 20px;}
+#contenedor #contenedorSecciones #contenidoPrincipal #zonaTitulo #titulo {width:671px;font-size:25px;height:35px;}
+#contenedor #contenedorSecciones #contenidoPrincipal #zonaTitulo #lineaTitulo {width:671px;height:5px;background-color:#4c4c4c;}
+
+#contenedor #contenedorSecciones #contenidoDerecha {width:236px;overflow: hidden;float:right;margin:0;padding:0;}
+#contenedor #contenedorSecciones #contenidoDerecha #zonaBanner {width:234px;height:366px;border:1px solid #aeaeae;}
+
+#contenedor #contenedorSecciones #contenidoDerecha #chat {width:236;overflow:hidden;margin-top:20px;}
+#contenedor #contenedorSecciones #contenidoDerecha #chat #cabecera {width:236px;height:40px;background-image:url(../imagenes/fondoTituloChat.jpg);}
+#contenedor #contenedorSecciones #contenidoDerecha #chat #contenidos {width:221px;height:158px;padding-left:13px;border-width:0 1px 1px 1px;border-style:solid;border-color:#aeaeae;}
+#contenedor #contenedorSecciones #contenidoDerecha #chat #contenidos #imagenChat {width:103px;height:158px;float:right;background-image:url(../imagenes/internas/operadora.jpg);}
+#contenedor #contenedorSecciones #contenidoDerecha #chat #contenidos #titulo {font-family:Arial;font-size:14px;font-weight:bold;color:#4f4f4f;padding-top:22px;}
+#contenedor #contenedorSecciones #contenidoDerecha #chat #contenidos #texto {font-family:Arial;font-size:13px;font-weight:normal;color:808080;}
+#contenedor #contenedorSecciones #contenidoDerecha #chat #contenidos #ingresar {width:80px;height:25px;background-image:url(../imagenes/btnIngresar.jpg);cursor:pointer;margin-top:10px;}
