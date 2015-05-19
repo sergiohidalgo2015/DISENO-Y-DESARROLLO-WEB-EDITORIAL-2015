@@ -1,0 +1,6 @@
+#contenedor #contenedorSecciones #contenidoPrincipal #lineaSubtitulo {width:671px;margin:28px 0 17px 20px;font-size:15px;font-weight:700;color:#595959;overflow:hidden;}
+#contenedor #contenedorSecciones #contenidoPrincipal #fotoFamilia {widht:671px;height:221px;margin:28px 0 40px 20px;}
+#contenedor #contenedorSecciones #contenidoPrincipal .lineaFondoSubTitulo {width:377px;height:29px;font-size:20px;margin-bottom:24px;padding:7px 0 0 20px;background-image:url(../imagenes/internas/fondoSubtitulo.jpg);color:#fff;}
+#contenedor #contenedorSecciones #contenidoPrincipal .imagenEmpresas {width:671px;overflow:hidden;padding:0 0 0 20px;margin:0 0 54px 0;}
+#contenedor #contenedorSecciones #contenidoPrincipal #eleccionMisionMedica {width:639px;border:1px solid #aeaeae;overflow:hidden;background-color:#e6ecf4;margin:13px 0 40px 20px;padding-right:30px;*padding-top:15px;}
+#contenedor #contenedorSecciones #contenidoPrincipal #eleccionMisionMedica ul li {font-size:14px;color:#595959;font-weight:normal;margin-bottom:15px;list-style-type: none;list-style-image: url(../imagenes/internas/vineta.png);vertical-align:middle;}

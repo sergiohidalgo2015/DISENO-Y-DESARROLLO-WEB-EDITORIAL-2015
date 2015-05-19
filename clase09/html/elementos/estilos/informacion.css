@@ -1,0 +1,7 @@
+#contenedor #contenedorSecciones #contenidoPrincipal #fotoContactos {widht:671px;height:221px;margin:28px 0 40px 20px;}
+#contenedor #contenedorSecciones #contenidoPrincipal .mensaje {widht:671px;overflow:hidden;color:#595959;font-size:14px;margin:28px 0 40px 20px;text-align:justify;}
+#contenedor #contenedorSecciones #contenidoPrincipal .mensaje ul li {line-height: 25px;list-style-type: none;list-style-image: url(../imagenes/internas/vineta_personal.png);vertical-align:middle;}
+#contenedor #contenedorSecciones #contenidoPrincipal .lineaFondoSubTitulo {width:651px;height:29px;font-size:20px;margin-bottom:24px;padding:7px 0 0 20px;background-image:url(../imagenes/acordeon/tit_definiciones.jpg);color:#fff;}
+
+#contenedor #contenedorSecciones #contenidoPrincipal .mensajePad {width:657px;overflow:hidden;color:#595959;font-size:14px;margin:28px 0 20px 20px;text-align:justify;padding:0 0 0 14px;background-image: url(../imagenes/internas/vineta_personal.png);background-position: 0 6px;background-repeat:no-repeat;}
+#contenedor #contenedorSecciones #contenidoPrincipal .mensajePad .titulo {font-size:18px;font-weight:700;color:#0b3468;}

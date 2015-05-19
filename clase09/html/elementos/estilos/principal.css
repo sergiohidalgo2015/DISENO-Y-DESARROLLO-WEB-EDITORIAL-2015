@@ -1,0 +1,53 @@
+body {font-family:"MyriadWebProRegular";margin:0;}
+
+img {border-width:0;}
+
+#contenedor {width:943px;margin:0 auto;overflow:hidden;}
+#contenedor header nav#menuSuperior {width:943px;height:32px;background-image:url(../imagenes/fondoSuperiorMenu.jpg);margin:0 0 20px 0;position:relative;}
+#contenedor header nav#menuSuperior ul {list-style-type: none;margin:0 auto 0 -15px;display:inline-block;width:943px;*margin:0px auto 0px 25px;}
+#contenedor header nav#menuSuperior ul li {float:left;list-style:none;margin:7px auto;padding:0;position:relative;display:block;padding:0;margin-left:0px;}
+#contenedor header nav#menuSuperior ul li a {display:block;font-size:14px;color:#202020;position:relative;text-decoration:none;font-family:'MyriadWebProRegular';}
+#contenedor header nav#menuSuperior ul li a:hover {color:#202020;text-decoration:underline;}
+#contenedor header nav#menuSuperior ul li a:link {color:#202020;}
+#contenedor header nav#menuSuperior ul li a:visited {color:#202020;}
+#contenedor header nav#menuSuperior ul li a:active {color:#202020;text-decoration:underline;}
+#contenedor header nav#menuSuperior ul li#sp1 {width:291px;}
+#contenedor header nav#menuSuperior ul li#sp2 {width:150px;}
+#contenedor header nav#menuSuperior ul li#sp3 {width:157px;}
+#contenedor header nav#menuSuperior ul li#sp4 {width:130px;}
+
+#contenedor #accesoIntranet {}
+
+#contenedor #contenedorIconos {}
+/*#contenedor #contenedorIconos #logoMM {width:470px;height:96px;margin:0 18px 19px 19px;background-image:url(../imagenes/logoMisionMedica.gif);float:left;position:relative;}*/
+#contenedor #contenedorIconos #logoMM {width:470px;height:96px;margin:0 18px 19px 19px;float:left;position:relative;}
+#contenedor #contenedorIconos #logoFB {width:28px;height:28px;float:right;position:relative;margin-top:68px;}
+#contenedor #contenedorIconos #logoTW {width:29px;height:28px;float:right;position:relative;margin:68px 10px 0 11px;}
+#contenedor #contenedorIconos #logoLK {width:29px;height:28px;float:right;position:relative;margin:68px 10px 0 0;}
+
+#contenedor #menuPrincipal {width:943px;height:37px;background-image:url(../imagenes/fondoMenuPrincipal.png);padding:0;margin-bottom:7px;clear:both;position:relative;z-index:1000;}
+
+#contenedor #banners {width:941px;height:221px;margin:0 0 11px 0;border:1px solid #0e3b74;padding:0;}
+#contenedor #banners #contenedorBanners {width:941px;height:221px;position:absolute;display:block;z-index:0;*margin:0 0 0 -442px;}
+#contenedor #banners #botoneraBanners {width:57px;margin:200px auto;overflow:hidden;padding:0;*padding:200px 0 0 0;} /*AMPLIAR EL ANCHO = CANTIDAD DE BANNERS * 19PX */
+#contenedor #banners #botoneraBanners li {float: left; list-style: none;list-style-type:none;width:19px;height:16px;}
+#contenedor #banners #botoneraBanners li .fondoSelector {position:relative;width:19px;height:16px;background-image:url(../imagenes/banners/botones.png);background-position:top;cursor:pointer;background-repeat:no-repeat;}
+#contenedor #banners #botoneraBanners li.activeSlide .fondoSelector { background-position:bottom; }
+
+
+#contenedor #menuInferior {width:941px;height:31px;font-family:"MyriadWebProRegular";font-size:14px;background-color:#d9e2ee;border-width:1px;border-color:#aeaeae;border-style:solid;margin:13px 0 0 0;padding:0;}
+#contenedor #menuInferior nav {margin:0 auto;text-align:center;list-style-type:none;border:0;}
+#contenedor #menuInferior nav ul {list-style-type: none;margin:0 auto;display:inline-block;width:600px;}
+#contenedor #menuInferior nav ul li {float:left;list-style:none;margin:7px auto;padding:0;position:relative;display:block;width:200px;padding:0;margin-left:-10px;}
+#contenedor #menuInferior nav ul li a {display:block;width:200px;font-size:14px;color:#202020;position:relative;text-decoration:none;}
+#contenedor #menuInferior nav ul li a:hover {color:#202020;text-decoration:underline;}
+#contenedor #menuInferior nav ul li a:link {color:#202020;}
+#contenedor #menuInferior nav ul li a:visited {color:#202020;}
+#contenedor #menuInferior nav ul li a:active {color:#202020;text-decoration:underline;}
+
+#contenedor footer {width:943px;overflow:hidden;margin-bottom:20px;}
+#contenedor footer #piePagina {width:500px;height:45px;font-family:"MyriadWebProRegular";font-size:14px;font-style:normal;color:#343434;text-align:left;margin:30px 0 0 0;padding:0 15px 0 0;float:left;position:relative;}
+#contenedor footer #selloMapfre {width:69px;height:65px;float:right;position:relative;margin:15px 12px auto;}
+#contenedor footer #logoISO {width:187px;height:65px;float:right;position:relative;margin:15px 12px auto;}
+#contenedor footer #logoUKAS {width:49px;height:68px;float:right;position:relative;margin:10px 0px auto;}
+

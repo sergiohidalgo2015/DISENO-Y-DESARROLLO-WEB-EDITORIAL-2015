@@ -1,0 +1,14 @@
+#contenedor #contenedorSecciones #contenidoPrincipal .mensaje {width:671px;overflow:hidden;color:#595959;font-size:14px;margin:28px 0 20px 20px;text-align:justify;}
+#contenedor #contenedorSecciones #contenidoPrincipal .mensaje #foto {float:right;padding-left:10px;}
+#contenedor #contenedorSecciones #contenidoPrincipal .mensaje ul {list-style-type: none;list-style-image: url(../imagenes/internas/vineta_personal.png);}
+#contenedor #contenedorSecciones #contenidoPrincipal .mensaje ul li {line-height: 25px;vertical-align:middle;}
+#contenedor #contenedorSecciones #contenidoPrincipal .mensaje ul.izquierda {list-style-type: none;padding:0;margin:0;}
+#contenedor #contenedorSecciones #contenidoPrincipal .mensaje ul.izquierda li {line-height: 25px;vertical-align:middle;background-image: url(../imagenes/internas/vineta_personal.png);background-position: 0 6px;padding-left:14px;background-repeat:no-repeat;}
+#contenedor #contenedorSecciones #contenidoPrincipal .mensaje ul li a {color:#0b3468;text-decoration: underline;}
+#contenedor #contenedorSecciones #contenidoPrincipal .mensaje ul li a:link {color:#0b3468;text-decoration: underline;}
+#contenedor #contenedorSecciones #contenidoPrincipal .mensaje ul li a:visited {color:#0b3468;text-decoration: underline;}
+#contenedor #contenedorSecciones #contenidoPrincipal .mensajePad {width:657px;overflow:hidden;color:#595959;font-size:14px;margin:28px 0 20px 20px;text-align:justify;padding:0 0 0 14px;background-image: url(../imagenes/internas/vineta_personal.png);background-position: 0 6px;background-repeat:no-repeat;}
+#contenedor #contenedorSecciones #contenidoPrincipal .mensajePad .titulo {font-size:18px;font-weight:700;color:#0b3468;}
+#contenedor #contenedorSecciones #contenidoPrincipal .lineaFondoSubTitulo {width:377px;height:29px;font-size:20px;margin-bottom:24px;padding:7px 0 0 20px;background-image:url(../imagenes/internas/fondoSubtitulo.jpg);color:#fff;}
+#contenedor #contenedorSecciones #contenidoPrincipal #valoresMisionMedica {width:162px;border:1px solid #aeaeae;overflow:hidden;background-color:#e6ecf4;margin:5px 0 40px 20px;padding-right:30px;*padding-top:15px;}
+#contenedor #contenedorSecciones #contenidoPrincipal #valoresMisionMedica ul li {font-size:14px;color:#595959;font-weight:normal;margin-bottom:15px;list-style-type: none;list-style-image: url(../imagenes/internas/vineta.png);vertical-align:middle;}

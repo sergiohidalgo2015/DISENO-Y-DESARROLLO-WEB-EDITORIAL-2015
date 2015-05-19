@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'MyriadWebProRegular';
+    src: url('../fuentes/myriadwebpro-webfont.eot');
+    src: url('../fuentes/myriadwebpro-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fuentes/myriadwebpro-webfont.woff') format('woff'),
+         url('../fuentes/myriadwebpro-webfont.ttf') format('truetype'),
+         url('../fuentes/myriadwebpro-webfont.svg#MyriadWebProRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'MyriadWebProBold';
+    src: url('../fuentes/myriadwebpro-bold-webfont.eot');
+    src: url('../fuentes/myriadwebpro-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fuentes/myriadwebpro-bold-webfont.woff') format('woff'),
+         url('../fuentes/myriadwebpro-bold-webfont.ttf') format('truetype'),
+         url('../fuentes/myriadwebpro-bold-webfont.svg#MyriadWebProBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}

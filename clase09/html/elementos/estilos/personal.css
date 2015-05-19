@@ -1,0 +1,4 @@
+#contenedor #contenedorSecciones #contenidoPrincipal #fotoFamilia {widht:671px;height:221px;margin:28px 0 40px 20px;}
+#contenedor #contenedorSecciones #contenidoPrincipal .mensaje {widht:671px;overflow:hidden;color:#595959;font-size:14px;margin:28px 0 40px 20px;text-align:justify;}
+#contenedor #contenedorSecciones #contenidoPrincipal .mensaje ul li {line-height: 25px;list-style-type: none;list-style-image: url(../imagenes/internas/vineta_personal.png);vertical-align:middle;}
+#contenedor #contenedorSecciones #contenidoPrincipal .lineaFondoSubTitulo {width:377px;height:29px;font-size:20px;margin-bottom:24px;padding:7px 0 0 20px;background-image:url(../imagenes/internas/fondoSubtitulo.jpg);color:#fff;}
