@@ -51,6 +51,7 @@
         </div>
     </section>
     <section id="menuPrincipal">
+
     <?php
         wp_nav_menu(
         array('menu' => 'principal')
@@ -59,10 +60,10 @@
 
 
 <!--        <ul id="menu">
-            <li id="m1"><a href="nosotros.html">Nosotros</a></li>
-            <li id="m2"><a href="servicios.html">Nuestros servicios</a></li>
-            <li id="m3"><a href="personal.html">Nuestro personal</a></li>
-            <li id="m4"><a href="clientes.html">Nuestros clientes</a></li>
-            <li id="m5"><a href="trujillo.html" class="itemFinal">Misión Médica en Trujillo</a></li>
+            <li class="m1"><a href="nosotros.html">Nosotros</a></li>
+            <li class="m2"><a href="servicios.html">Nuestros servicios</a></li>
+            <li class="m3"><a href="personal.html">Nuestro personal</a></li>
+            <li class="m4"><a href="clientes.html">Nuestros clientes</a></li>
+            <li class="m5"><a href="trujillo.html" class="itemFinal">Misión Médica en Trujillo</a></li>
         </ul>-->
     </section>

@@ -1,18 +1,18 @@
-/*#menu {margin:20px 0 0 5px;font: normal 16px 'MyriadWebProRegular';*margin:0px auto 0 40px;}*/
-#menu {margin:20px 0 0 0;font: normal 16px 'MyriadWebProRegular';left:-10px;padding-left:50px;*margin:0px 0 0 0;}
-#menu ul {display:inline;}
-#menu li {float: left;list-style: none;display:inline;}
-#menu li a {display: block;padding: 10px 0 0 0;text-decoration: none;border-right: 1px solid #9daec3;color: #fff;white-space: nowrap;margin-bottom:0px;height:26px;}
-/*#menu li a {display: block;text-decoration: none;border-right: 1px solid #9daec3;color: #fff;white-space: nowrap;}*/
-#menu li ul {margin: 0;	padding: 0;position: absolute;visibility: hidden;*margin:0 0 0 -58px;}
-#menu li ul li {float: none;display: inline;font-size:11px;margin:0px;}
-#menu li ul li a {width: auto;margin:0;padding:10px 14px 8px 18px;background: #3266ab;font-weight:normal;color: #fff;text-align:left;font-family:Arial;font-size:11px;background-image:url(../imagenes/vineta_submenu.png);background-repeat:no-repeat;background-position: 6px 13px;border-width:0 0 1px 0;border-color:#84a3cd;border-style:solid;height:13px;*margin:0 0 0 57px;*width:115px;}
-#menu li ul li a:hover {background-color: #0b3468}
-#menu li a.itemFinal {border-right:0 !important;}
-#menu li img { margin-left:10px; }	
+/*#menu-menu-nuevo {margin:20px 0 0 5px;font: normal 16px 'MyriadWebProRegular';*margin:0px auto 0 40px;}*/
+#menu-menu-nuevo {margin:20px 0 0 0;font: normal 16px 'MyriadWebProRegular';left:-10px;padding-left:50px;*margin:0px 0 0 0;}
+#menu-menu-nuevo ul {display:inline;}
+#menu-menu-nuevo li {float: left;list-style: none;display:inline;}
+#menu-menu-nuevo li a {display: block;padding: 10px 0 0 0;text-decoration: none;border-right: 1px solid #9daec3;color: #fff;white-space: nowrap;margin-bottom:0px;height:26px;}
+/*#menu-menu-nuevo li a {display: block;text-decoration: none;border-right: 1px solid #9daec3;color: #fff;white-space: nowrap;}*/
+#menu-menu-nuevo li ul {margin: 0;	padding: 0;position: absolute;visibility: hidden;*margin:0 0 0 -58px;}
+#menu-menu-nuevo li ul li {float: none;display: inline;font-size:11px;margin:0px;}
+#menu-menu-nuevo li ul li a {width: auto;margin:0;padding:10px 14px 8px 18px;background: #3266ab;font-weight:normal;color: #fff;text-align:left;font-family:Arial;font-size:11px;background-image:url(../imagenes/vineta_submenu.png);background-repeat:no-repeat;background-position: 6px 13px;border-width:0 0 1px 0;border-color:#84a3cd;border-style:solid;height:13px;*margin:0 0 0 57px;*width:115px;}
+#menu-menu-nuevo li ul li a:hover {background-color: #0b3468}
+#menu-menu-nuevo li a.itemFinal {border-right:0 !important;}
+#menu-menu-nuevo li img { margin-left:10px; }	
 
-#menu #m1 {width:104px;}
-#menu #m2 {width:152px;padding-left:35px;}
-#menu #m3 {width:155px;padding-left:30px;}
-#menu #m4 {width:143px;padding-left:32px;}
-#menu #m5 {margin-left:35px;}
+#menu-menu-nuevo .m1 {width:104px;}
+#menu-menu-nuevo .m2 {width:152px;padding-left:35px;}
+#menu-menu-nuevo .m3 {width:155px;padding-left:30px;}
+#menu-menu-nuevo .m4 {width:143px;padding-left:32px;}
+#menu-menu-nuevo .m5 {margin-left:35px;}
